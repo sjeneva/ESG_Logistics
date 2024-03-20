@@ -2,18 +2,18 @@ Methodology
 
 1.News Crawling: The initial step involves automated gathering of news articles from predefined sources, a process commonly referred to as 'crawling'. This phase populates the dataset for subsequent analysis.
  (1) News Publishers - (2) News publisher's website - (3) Extract articles
-  ① Crawling Google News for articles based on a list of keywords helps identify news publishers covering a specific topic.
+  ①Crawling Google News for articles based on a list of keywords helps identify news publishers covering a specific topic.
   ②
   ③
 
 2.Text Preprocessing: This critical phase prepares the raw text data for analysis through several sub-steps:
  (1) Word Segmentation - (2) Removing Redundant Data - (3) Removing the Null - (4) Removing Irrelevant Content - (5) Removing Stop Words - (6) Term Frequency-Inverse Document Frequency (TF-IDF)
-  ① The text is divided into discrete units or tokens, typically words or phrases.
-  ② Any duplicated content within the dataset is identified and eliminated to improve processing efficiency and accuracy.
-  ③ Entries that are empty or have missing values are discarded as they do not contribute meaningful information for analysis.
-  ④ Text elements that do not contribute to the understanding of the content, such as numbers or punctuation, are removed.
-  ⑤ Commonly occurring words (e.g., "the", "is", "at") which are deemed irrelevant for topic modeling are filtered out.
-  ⑥ Statistical measure is computed for each word to reflect its importance in the corpus. Term Frequency denotes the frequency of a word in a document, while Inverse Document Frequency diminishes the weight of terms that occur very frequently across the document set and increases the weight of terms that occur rarely.
+  ①The text is divided into discrete units or tokens, typically words or phrases.
+  ②Any duplicated content within the dataset is identified and eliminated to improve processing efficiency and accuracy.
+  ③Entries that are empty or have missing values are discarded as they do not contribute meaningful information for analysis.
+  ④Text elements that do not contribute to the understanding of the content, such as numbers or punctuation, are removed.
+  ⑤Commonly occurring words (e.g., "the", "is", "at") which are deemed irrelevant for topic modeling are filtered out.
+  ⑥Statistical measure is computed for each word to reflect its importance in the corpus. Term Frequency denotes the frequency of a word in a document, while Inverse Document Frequency diminishes the weight of terms that occur very frequently across the document set and increases the weight of terms that occur rarely.
 
 3.Latent Dirichlet Allocation (LDA) is a generative statistical model that allows sets of observations to be explained by unobserved groups that explain why some parts of the data are similar. In this context, it helps in discovering topics that are present in a corpus.
 
