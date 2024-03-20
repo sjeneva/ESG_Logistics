@@ -14,6 +14,7 @@ File Names in Python: 1.1.NC - 1.2.NC - 1.3.NC - 1.4.NC
 File Names in Python: 2.1.TP - 2.2.TP - 2.3.TP - 2.4.TP - 2.5.TP - 2.6.TP
 
 ① The text is divided into discrete units or tokens, typically words or phrases.
+   [Use tokenization functions from libraries like NLTK or spaCy.]
 ② Any duplicated content within the dataset is identified and eliminated to improve processing efficiency and accuracy.
 ③ Entries that are empty or have missing values are discarded as they do not contribute meaningful information for analysis.
 ④ Text elements that do not contribute to the understanding of the content, such as numbers or punctuation, are removed.
