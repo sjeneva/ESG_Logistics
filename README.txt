@@ -30,7 +30,7 @@ File Names in Python: 2.1.TP - 2.2.TP - 2.3.TP - 2.4.TP - 2.5.TP - 2.6.TP
    [Utilize stop words lists provided by NLTK, spaCy, or other NLP libraries to filter them out of the text.]
 
 ⑥ Statistical measure is computed for each word to reflect its importance in the corpus. Term Frequency denotes the frequency of a word in a document, while Inverse Document Frequency diminishes the weight of terms that occur very frequently across the document set and increases the weight of terms that occur rarely.
-   [Use the TfidfVectorizer from scikit-learn or similar tools in other libraries to compute TF-IDF scores for words in your documents.]
+   [Use the TfidfVectorizer from scikit-learn to compute TF-IDF scores for words in your documents.]
 
 3.Latent Dirichlet Allocation (LDA) is a generative statistical model that allows sets of observations to be explained by unobserved groups that explain why some parts of the data are similar. In this context, it helps in discovering topics that are present in a corpus.
   [Apply LDA using libraries like Gensim, specifying the number of topics and other hyperparameters. Analyze the topics and their distributions across the documents.]
