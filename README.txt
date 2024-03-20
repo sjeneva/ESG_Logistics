@@ -1,12 +1,16 @@
-Methodology
+
 1.News Crawling: The initial step involves automated gathering of news articles from predefined sources, a process commonly referred to as 'crawling'. This phase populates the dataset for subsequent analysis.
 (1) News Publishers - (2) News publisher's website - (3) Extract articles
+File Names in Python: 1.1.NC - 1.2.NC - 1.3.NC
+
 ① Crawling Google News for articles based on a list of keywords helps identify news publishers covering a specific topic.
 ②
 ③
 
 2.Text Preprocessing: This critical phase prepares the raw text data for analysis through several sub-steps:
 (1) Word Segmentation - (2) Removing Redundant Data - (3) Removing the Null - (4) Removing Irrelevant Content - (5) Removing Stop Words - (6) Term Frequency-Inverse Document Frequency (TF-IDF)
+File Names in Python: 2.1.TP - 2.2.TP - 2.3.TP - 2.4.TP - 2.5.TP - 2.6.TP
+
 ① The text is divided into discrete units or tokens, typically words or phrases.
 ② Any duplicated content within the dataset is identified and eliminated to improve processing efficiency and accuracy.
 ③ Entries that are empty or have missing values are discarded as they do not contribute meaningful information for analysis.
@@ -18,6 +22,3 @@ Methodology
 
 4.Main Topics: The outcome of the LDA is a set of topics that are prevalent across the news articles. Each topic is characterized by a cluster of words with a certain probability distribution, representing different themes extracted from the text data.
 
-File Names_Python
-1.News Crawling: 1.1.NC - 1.2.NC - 1.3.NC
-2.Text Preprocessing: 2.1.TP - 2.2.TP - 2.3.TP - 2.4.TP - 2.5.TP - 2.6.TP
