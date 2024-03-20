@@ -1,5 +1,4 @@
 Methodology
-
 1.News Crawling: The initial step involves automated gathering of news articles from predefined sources, a process commonly referred to as 'crawling'. This phase populates the dataset for subsequent analysis.
 (1) News Publishers - (2) News publisher's website - (3) Extract articles
 ① Crawling Google News for articles based on a list of keywords helps identify news publishers covering a specific topic.
