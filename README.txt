@@ -4,6 +4,7 @@
 File Names in Python: 1.1.NC - 1.2.NC - 1.3.NC
 
 ① Crawling Google News for articles based on a list of keywords helps identify news publishers covering a specific topic.
+   Result will be in EXCEL File 1.1.NC_Korea, 1.1.NC_USA
 ②
 ③
 
