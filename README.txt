@@ -1,12 +1,13 @@
 
 1.News Crawling: The initial step involves automated gathering of news articles from predefined sources, a process commonly referred to as 'crawling'. This phase populates the dataset for subsequent analysis.
-(1) News Publishers - (2) News publisher's website - (3) Extract articles
-File Names in Python: 1.1.NC - 1.2.NC - 1.3.NC
+(1) News Publishers - (2) News publisher's website - (3) Extract articles - (4) Translate
+File Names in Python: 1.1.NC - 1.2.NC - 1.3.NC - 1.4.NC
 
 ① Crawling Google News for articles based on a list of keywords helps identify news publishers covering a specific topic.
    Result will be in EXCEL File 1.1.NC_Korea, 1.1.NC_USA
 ②
 ③
+④
 
 2.Text Preprocessing: This critical phase prepares the raw text data for analysis through several sub-steps:
 (1) Word Segmentation - (2) Removing Redundant Data - (3) Removing the Null - (4) Removing Irrelevant Content - (5) Removing Stop Words - (6) Term Frequency-Inverse Document Frequency (TF-IDF)
