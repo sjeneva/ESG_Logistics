@@ -55,3 +55,4 @@ if __name__ == "__main__":
     source_directory = r'C:\Users\1234\OneDrive - 인하대학교\바탕 화면\ESG_Logistics\2.1_Korea_KLN_Tokenized'
     result_directory = r'C:\Users\1234\OneDrive - 인하대학교\바탕 화면\ESG_Logistics\2.2_Korea_KLN_Cleaned_Texts'
     process_files(source_directory, result_directory)
+# dd
