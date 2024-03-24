@@ -1,13 +1,19 @@
 
 1.News Crawling: The initial step involves automated gathering of news articles from predefined sources, a process commonly referred to as 'crawling'. This phase populates the dataset for subsequent analysis.
-(1) News Publishers - (2) News publisher's website - (3) Extract articles - (4) Translate
+(1.1) News Ranking - (1.2) News URL - (1.3) Extracted articles - (1.4.1) News Title & Date  - (1.5) Translate
+                                                               - (1.4.2) Articles' Contents
 File Names in Python: 1.1.NC - 1.2.NC - 1.3.NC - 1.4.NC
 
-① Crawling Google News for articles based on a list of keywords helps identify news publishers covering a specific topic.
+1.① Crawling Google News for articles based on a list of keywords helps identify news publishers covering a specific topic.
+   For this project, It is designed to gather and organize news stories related to various aspects of ESG in supply chain management and logistics.
+   Google News only gets the articles for recent coverage with various news outlets that does not cover SCM and Logistics as a main topic.
+   Therefore, this part is trying to rank news outlets that covers SCM and Logistics especially relating ESG.
    Result will be in EXCEL File 1.1.NC_Korea, 1.1.NC_USA
-②
-③
-④
+1.② Overall, this script is an automated solution for gathering information on ESG-related articles from a specified news website, streamlining the process of data collection for research or analysis purposes.
+1.③ 
+1.④.1
+1.④.2 specific_part_from_text
+1.⑤ This script is designed to automatically translate text files from Korean to English
 
 2.Text Preprocessing: This critical phase prepares the raw text data for analysis through several sub-steps:
 (1) Word Segmentation [Tokenization] - (2) Removing Redundant Data - (3) Removing the Null - (4) Removing Irrelevant Content - (5) Removing Stop Words - (6) Term Frequency-Inverse Document Frequency (TF-IDF)

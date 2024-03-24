@@ -19,8 +19,7 @@ def extract_text_from_url(url):
     response = requests.get(url)
     response.raise_for_status()  # Raise an error for bad responses (4xx, 5xx)
     full_text = html2text.html2text(response.text)
-    specific_part = extract_specific_part_from_text(full_text, "_닫기_", "기자**")
-    return specific_part
+    return full_text
 
 
 base_url = ' https://www.klnews.co.kr/news/articleView.html?idxno='

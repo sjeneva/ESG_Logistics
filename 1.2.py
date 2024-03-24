@@ -56,7 +56,8 @@ for page in range(1, number_of_pages + 1):
 df = pd.DataFrame(articles_data)
 
 # Specify the filename and path for the Excel file
-filename = '1.2.NC.xlsx'
+filename = r'C:\Users\1234\OneDrive - 인하대학교\바탕 화면\1.2_Korea_KLN.xlsx'
+
 
 # Write the DataFrame to an Excel file
 df.to_excel(filename, index=False)
