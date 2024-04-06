@@ -5,7 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="093cef1b-3963-4c5f-968a-3760b228c728" name="Changes" comment="add more codes">
+      <change afterPath="$PROJECT_DIR$/3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Process.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1_Korea.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1.1_Korea.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2_Korea_KLN.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_Korea_KLN.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4.1_Korea_KLN.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4.1_Korea_KLN_News Title &amp; Date.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.41.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.411.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.345.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.345.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.8.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +53,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/1234/OneDrive - 인하대학교/바탕 화면/ESG_Logistics&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -60,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711350343205</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add more codes">
+      <created>1711354670243</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711354670243</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -48,6 +48,6 @@ def process_directory(source_directory, result_directory):
             print(f"Processed and saved: {filename}")
 
 if __name__ == "__main__":
-    source_directory = r'C:\Users\1234\OneDrive - 인하대학교\바탕 화면\ESG_Logistics\2.345_Korea_KLN_Processed_Texts'
-    result_directory = r'C:\Users\1234\OneDrive - 인하대학교\바탕 화면\ESG_Logistics\2.6_Korea_KLN_Filtered_POS_Texts'
+    source_directory = r'Separated_Files_2.2345'
+    result_directory = r'Separated_Files_2.6'
     process_directory(source_directory, result_directory)
