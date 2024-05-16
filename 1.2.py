@@ -3,17 +3,17 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 # URL of the page to scrape
-base_url = 'https://www.klnews.co.kr'
-path = '/news/articleList.html'
+base_url = 'https://www.haesainfo.com'
+path = '/news/articleList.html?page=1&total=8456&sc_section_code=&sc_sub_section_code=&sc_serial_code=&sc_area=A&sc_level=&sc_article_type=&sc_view_level=&sc_sdate=&sc_edate=&sc_serial_number=&sc_word=환경&box_idxno=&sc_multi_code=&sc_is_image=&sc_is_movie=&sc_user_name=&sc_order_by=E'
 
 # Parameters for the GET request
 params = {
     'view_type': 'sm',
-    'sc_word': 'ESG'
+    'sc_word': '환경'
 }
 
 # Set the number of pages you want to scrape
-number_of_pages = 44
+number_of_pages = 423
 
 # Initialize a list to store the scraped data
 articles_data = []
@@ -56,7 +56,7 @@ for page in range(1, number_of_pages + 1):
 df = pd.DataFrame(articles_data)
 
 # Specify the filename and path for the Excel file
-filename = r'C:\Users\1234\OneDrive - 인하대학교\바탕 화면\1.2_Korea_KLN.xlsx'
+filename = r'C:\Users\1234\OneDrive - 인하대학교\바탕 화면\새 폴더 (2)\1.2_Korea_한국해운신문_환경.xlsx'
 
 
 # Write the DataFrame to an Excel file

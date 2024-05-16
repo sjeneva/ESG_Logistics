@@ -5,26 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="093cef1b-3963-4c5f-968a-3760b228c728" name="Changes" comment="add more codes">
-      <change afterPath="$PROJECT_DIR$/3.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HJ/3.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SNN/1.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SNN/1.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SNN/3.4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1_Korea.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1.1_Korea.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2_Korea_KLN.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_Korea_KLN.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.1_Korea_KLN.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.1_Korea_KLN_News Title &amp; Date.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.41.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.411.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1_USA.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.345.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.345.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.345.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/2.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.31.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.32.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.32.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.33.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Process.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,10 +56,47 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/1234/OneDrive - 인하대학교/바탕 화면/ESG_Logistics&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/1234/OneDrive - 인하대학교/바탕 화면/ESG_Logistics&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="1.2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="add more codes">
@@ -72,6 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711171328649</updated>
+      <workItem from="1712715983436" duration="23554000" />
     </task>
     <task id="LOCAL-00002" summary="add more codes">
       <created>1711350343205</created>
@@ -87,11 +128,34 @@
       <option name="project" value="LOCAL" />
       <updated>1711354670243</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add more codes">
+      <created>1712420957483</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712420957483</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add more codes" />
     <option name="LAST_COMMIT_MESSAGE" value="add more codes" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/4_1_py$1_3_12.coverage" NAME="1.3.12 Coverage Results" MODIFIED="1712768655739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/4_1_py$1_2.coverage" NAME="1.2 Coverage Results" MODIFIED="1712764335988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/4_1_py$1_3_15.coverage" NAME="1.3.15 Coverage Results" MODIFIED="1712768904691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/4_1_py$1_20.coverage" NAME="1.20 Coverage Results" MODIFIED="1712753199421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/4_1_py$1_3_13.coverage" NAME="1.3.13 Coverage Results" MODIFIED="1712768795913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/4_1_py$1_2_2.coverage" NAME="1.2.2 Coverage Results" MODIFIED="1712752429381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/4_1_py$1_3_11.coverage" NAME="1.3.11 Coverage Results" MODIFIED="1712768008406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/4_1_py$1_3_1.coverage" NAME="1.3.1 Coverage Results" MODIFIED="1712768434880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/4_1_py$1_3_14.coverage" NAME="1.3.14 Coverage Results" MODIFIED="1712769003000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/4_1_py$1_2_3.coverage" NAME="1.2.3 Coverage Results" MODIFIED="1712752456754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/4_1_py$1_2_1.coverage" NAME="1.2.1 Coverage Results" MODIFIED="1712751970696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

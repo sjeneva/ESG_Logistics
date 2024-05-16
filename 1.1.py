@@ -4,7 +4,7 @@ from datetime import datetime
 
 # Function to get titles
 def get_titles(search):
-    gn = GoogleNews(lang='en', country='IN')  # English language, India
+    gn = GoogleNews(lang='en', country='AU')  # English language, India
     stories = []
     search_result = gn.search(search)
     newsitem = search_result['entries']
@@ -106,7 +106,7 @@ df_all_stories = pd.DataFrame(all_stories)
 df_all_stories['published'] = df_all_stories['published'].apply(convert_to_month_year)
 
 # Save the DataFrame to an Excel file
-excel_path = 'combined_esg_logistics_news.xlsx'
+excel_path = 'combined_esg_logistics_news_AU.xlsx'
 df_all_stories.to_excel(excel_path, index=False)
 
 print(f"All stories saved to {excel_path}")

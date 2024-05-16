@@ -48,6 +48,6 @@ def process_directory(source_directory, result_directory):
             print(f"Processed and saved: {filename}")
 
 if __name__ == "__main__":
-    source_directory = r'Separated_Files_2.2345'
-    result_directory = r'Separated_Files_2.6'
+    source_directory = r'2.2345_Korea_KLN_사회_extracted_articles'
+    result_directory = r'2.6_Korea_KLN_사회_extracted_articles'
     process_directory(source_directory, result_directory)

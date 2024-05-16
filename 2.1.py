@@ -5,7 +5,6 @@ import os
 # This pre-trained model handles various NLP tasks with a single call.
 nlp = spacy.load("en_core_web_sm")
 
-
 def tokenize_file(file_path):
     """
     Tokenize the content of a file into sentences using spaCy.
@@ -63,8 +62,8 @@ def main(source_directory_path, result_directory_path):
 if __name__ == "__main__":
     # Define the source directory containing input text files and the
     # result directory where tokenized files will be saved.
-    source_directory_path = r'1.4_Korea_KLN_Translate'
-    result_directory_path = r'Separated_Files_2.1'
+    source_directory_path = r'2.0_Korea_KLN_사회_extracted_articles'
+    result_directory_path = r'2.1_Korea_KLN_사회_extracted_articles'
 
     # Execute the main function to start the sentence tokenization process.
     main(source_directory_path, result_directory_path)
